@@ -4,6 +4,9 @@
 - **Fecha**: 02-12-2024
 - **Licencia**: [MIT](https://opensource.org/licenses/MIT)
 
+## Código Fuente
+[Triplanr.shader](https://github.com/Trystan4861/MyUnityStore/blob/main/Assets/Shaders/Triplanar.shader)
+
 ## Descripción
 
 Este shader permite aplicar una textura a un objeto usando un enfoque triplanar, lo que significa que la textura se proyecta desde tres direcciones (ejes X, Y, Z). Es ideal para crear superficies donde la textura debe aplicarse sin deformarse, como en objetos de geometría compleja o superficies grandes.
