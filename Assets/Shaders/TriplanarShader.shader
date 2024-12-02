@@ -7,7 +7,7 @@
  * el tamaño de la textura con el parámetro _Scale, donde un valor mayor de _Scale 
  * hace que la textura se vea más grande y un valor menor la hace más pequeña.
  * 
- * Autor: @Trystan4861t
+ * Autor: @Trystan4861
  * Fecha: 02-12-2024
  * Licencia: MIT
  * 
