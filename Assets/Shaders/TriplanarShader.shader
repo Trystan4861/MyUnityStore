@@ -4,7 +4,7 @@
  * Descripción:
  * Este shader aplica una textura a un objeto utilizando proyección triplanar, 
  * proyectando la textura desde tres direcciones (ejes X, Y, Z). Permite controlar 
- * el tamaño de la textura con el parámetro _Scale, donde un valor mayor de _Scale 
+ * el tamaño de la textura con el parámetro _Scale, donde un valor mayor de _Scale (Texture Scale en el Inspector del Material)
  * hace que la textura se vea más grande y un valor menor la hace más pequeña.
  * 
  * Autor: @Trystan4861
